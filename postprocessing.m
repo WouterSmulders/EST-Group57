@@ -1,6 +1,8 @@
 % Post-processing script for the EST Simulink model. This script is invoked
 % after the Simulink model is finished running (stopFcn callback function).
 
+% NOTE: A first attempt at creating a shared repository
+
 close all;
 figure;
 
